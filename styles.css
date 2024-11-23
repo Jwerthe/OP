@@ -18,7 +18,7 @@ body {
 .main > div {
     border-radius: 18px;
     border: 1px solid black;
-    transition: transform 2s ease;
+    transition: transform 10s ease;
 }
 
 div:hover {
