@@ -174,7 +174,6 @@ img {
     height: 100%; 
     object-fit: cover; 
     border-radius: 18px;
-    transition: transform 10s ease;
 }
 
 img:hover {
